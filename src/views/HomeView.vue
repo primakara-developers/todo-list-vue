@@ -26,7 +26,7 @@
             <!-- Start Component card -->
             <div id="" class="card w-100 my-2">
               <div class="card-body d-flex justify-content-between py-2">
-                <p class="m-0"></p>
+                <p class="m-0">Makan nasi bersama teman</p>
                 <button
                   type="button"
                   class="btn-close"
